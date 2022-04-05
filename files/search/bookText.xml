@@ -1,0 +1,4596 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="67"><page Index="1"><![CDATA[MODUL PEMBELAJARAN
+
+
+           Berbasis Kontekstual
+
+
+
+
+     MATEMATIKA
+
+
+
+
+
+     Sistem
+
+
+
+
+
+     Persamaan
+
+
+
+
+     Linear Dua
+
+
+
+
+     Variabel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                      KELAS
+
+
+                                                                                        VIII
+
+
+
+                                                                             Semester Ganjil
+
+
+
+
+     B e n i Da n u a ri Fit rio]]></page><page Index="2"><![CDATA[MODUL MATEMATIKA
+                                  MODUL MATEMATIKA
+
+
+
+
+                      SISTEM  PERSAMAAN LINEAR
+                      SISTEM  PERSAMAAN LINEAR
+
+
+
+                                         DUA VARIABEL
+                                          DUA VARIABEL
+
+
+
+                           Berbasis Pendekatan Kontekstual
+
+
+                                       Untuk Siswa Kelas VIII
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Penulis                    :
+
+              Beni Danuari Fitrio
+
+
+              Pembimbing          :
+
+              Pika Merliza, M.Pd
+
+
+              Sumber Ilustrasi    :
+
+              Canva.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        JURUSAN TADRIS MATEMATIKA
+
+                                FAKULTAS TARBIYAH DAN ILMU KEGURUAN
+                                   INSTITUT AGAMA ISLAM NEGERI (IAIN)
+                                                 METRO LAMPUNG
+
+                                                          2022]]></page><page Index="3"><![CDATA[KATA PENGANTAR
+
+
+
+
+
+
+
+
+
+                    Alhamdulillah,  puji  syukur  kami  panjatkan  kepada  Allah  SWT  yang  telah
+              memberikan  rahmat  dan  hidayah-Nya  sehingga  modul  pembelajaran  ini  dapat
+              penulis selesaikan. Tanpa pertolongan-Nya tentu kami tidak akan sanggup untuk
+              menyelesaikan modul ini dengan baik. Modul pembelajaran ini diperuntukkan bagi
+              siswa  SMP  Kelas  VIII  yang  bertujuan  untuk  membantu  siswa  dalam  memahami
+
+              konsep serta penerapan materi SPLDV dalam kehidupan sehari-hari.
+
+
+                        Modul  ini  merupakan  bahan  ajar  digital  mata  pelajaran  matematika  untuk
+
+              membantu  belajar  siswa  pada  jenjang  Sekolah  Menengah  Pertama  Kelas  VIII
+              berdasarkan  Kurikulum  2013.    Modul  ini  digunakan  untuk  memenuhi  kebutuhan
+              siswa  dalam  belajar  matematika  yang  disusun  secara  mudah,  terstruktur,  dan
+              mandiri.  Untuk  itu  pembahasan  materi  pada  modul  ini  menggunakan  bahasa
+              sederhana dan komunikatif agar mudah diapahami dan dicerna oleh siswa.
+
+
+
+                   Kami berharap dengan pengembangan modul ini, siswa dapat terbantu dan
+              dapat meningkatkan rasa ingin tahu dalam belajar matematika sehingga dapat
+
+              turut  berperan  dalam  meningkatkan  kemampuan  berpikir  matematis  siswa,
+              meningkatkan  kualitas  pendidikan,  serta  memberikan  yang  terbaik  bagi
+              kemajuan dunia pendidikan di Indonesia. Melalui modul ini kami mengajak siswa
+              untuk  melihat  matematika  dari  sudut  pandang  mereka  masing-masing  melalui
+              pengalaman-pengalaman  keseharian  mereka,  serta  untuk  mengembangkan
+
+              pemikiran kritis siswa akan situasi-situasi yang sering mereka hadapi.
+
+
+                      Kami  menyadari  sepenuhnya  modul  pembelajaran  ini  masih  jauh  dari  kata
+
+              sempurna.  Oleh  karena  itu,  kritik  dan  saran  yang  ada  relevansinya  dengan
+              penyempurnaan  modul  ini  senantiasa  penulis  harapkan.  Semoga  modul  ini
+              mampu memberikan manfaat dan memberikan nilai tambah kepada pembaca.
+
+
+
+
+
+                                             SELAMAT BELAJAR :)
+
+                                                       ~~~
+
+
+
+
+
+
+
+
+
+
+      i              Modul Matematika SMP 8 - SPLDV]]></page><page Index="4"><![CDATA[DAFTAR ISI
+
+
+
+
+
+
+
+
+             KATA PENGANTAR..................................................................................................................
+                                                                                                            i
+             DAFTAR ISI..................................................................................................................................
+                                                                                                            ii
+
+             PENDAHULUAN.........................................................................................................................   iii
+
+             TUJUAN PEMBELAJARAN....................................................................................................iv
+
+             PETA KONSEP........................................................................................................................... v
+
+             KEGIATAN PEMBELAJARAN 1  KONSEP PERSAMAAN LINEAR DUA
+
+             VARIABEL.................................................................................................................................... 1
+
+                       Memahami dan menjelaskan konsep persamaan linear dua variabel dari
+                A.
+                        suatu konteks .......................................................................................................................................3
+                            Kegiatan 1 : Membuat persamaan lienar dua variabel dalam berbagai
+
+                                     bentuk dan variabel dari suatu konteks................................................. 4
+                B.
+                       Penyelesaian persamaan linear dua variabel dari suatu konteks........................  10
+                            Kegiatan 1 : Memahami dan menjelaskan penyelesaian PLDV dengan
+
+                                     metode grafik........................................................................................................10
+
+                C.
+                       Latihan..................................................................................................................................... 13
+                D.
+                       Rangkuman............................................................................................................................ 14
+                 E.
+                       Refleksi.................................................................................................................................... 15
+             KEGIATAN PEMBELAJARAN 2 SISTEM PERSAMAAN LINEAR DUA
+
+             VARIABEL DAN PENYELESAIANNYA...................................................................... 16
+
+
+                        Membuat Model Matematika Sistem Persamaan Linear Dua Variabel dari
+                A.
+                    masalah yang diberikan....................................................................................................17
+
+                B.
+                        Penyelesaian Sistem Persamaan Linear Dua Variabel............................................  22
+                           Kegiatan 1 :  Memahami konsep penyelesaian sistem persamaan linear dua
+
+                                     variabel....................................................................................................................22
+
+                           Kegiatan 2 : Menentukan nilai variabel pada SPLDV dengan menggunakan
+                                     metode Grafik........................................................................................................24
+
+                           Kegiatan 3 : Menentukan nilai variabel pada SPLDV dengan menggunakan
+                                     metode Eliminasi..................................................................................................27
+
+
+
+
+      ii             Modul Matematika SMP 8 - SPLDV]]></page><page Index="5"><![CDATA[Kegiatan 4 : Menentukan nilai variabel pada SPLDV dengan menggunakan
+
+                                    metode Substitusi.................................................................................................33
+
+                        Latihan.................................................................................................................................... 41
+                 C.
+                        Rangkuman........................................................................................................................... 43
+                D.
+                        Refleksi...................................................................................................................................  44
+                 E.
+             UJI KOMPETENSI........................................................................................................  45
+
+
+             GLOSARIUM................................................................................................................. 48
+
+             DAFTAR PUSTAKA...................................................................................................... 49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ii             Modul Matematika SMP 8 - SPLDV]]></page><page Index="6"/><page Index="7"><![CDATA[PENDAHULUAN
+
+
+
+
+
+
+
+
+                                  Deskripsi Modul
+
+
+                      Modul  matematika  berbasis  pendekatan  kontekstual  ini  disusun  dengan
+              harapan  dapat  memberikan  penjelasan  materi    SPLDV  yang  dibutuhkan  siswa
+
+              SMP/MTs. Modul ini dapat digunakan dengan atau tanpa Guru yang memberikan
+              penjelasan materi. Tujuan penyusunan modul matematika SPLDV ini untuk dapat
+              memfasilitasi  peserta  didik  dalam  memahami  materi  SPLDV.  Selain  itu,
+
+              diharapkan  dengan  menggunakan  modul  ini  siswa  dapat  belajar  dengan
+              kecepatan  belajar  masing-masing  karena  pada  dasarnya  penggunaan  modul
+              dalam  pembelajaran  menggunakan  sistem  secara  individual  sehingga  siswa
+              dapat melakukan pembelajaran tanpa tergantung dengan penjelasan dari Guru.
+
+
+
+                      Dalam mengedukasikan proses pendidikan,              berperan sebagai bahan
+                                                                      e-modul
+              ajar yang mampu berfluktuasi sesuai dengan kebutuhannya.               sebagai
+                                                                                        E-modul
+              bahan  ajar  harus  terus  tumbuh  agar  dapat  memainkan  perannya  sebagai
+
+              stimulus dalam menciptakan pembelajaran yang interaktif dan inovatif.
+
+
+                                  matematika interaktif dengan pendekatan kontekstual hadir sebagai
+                   E-modul
+              jembatan  yang  akan  mengarahkan  siswa  kepada  inti  kecerdasan  yang
+              sesungguhnya. Dengan memahami masalah secara kontekstual, siswa dibimbing
+
+              untuk menguasai konsep matematika.
+              Teruslah  belajar  dan  berlatih  agar  dapat  memahami  materi  pembelajaran
+              secara  maksimal.  Jangan  pernah  menyerah  dan  selalu  semangat  walaupun
+
+              kesulitan datang karena Allah swt. berfirman dalam QS. Al-Insyirah ayat 6 dan Al
+              Mujadalah ayat 11:
+                                                              ْ
+                                                  اًﺮ ْ ﺴُﻳ ﺮ ْ ﺴُﻌﻟٱ  َ ﻊ َ ﻣ  ﱠ نإ ِ
+                                                         ِ
+                  Artinya : "Sesunggunnya bersama kesulitan pasti ada kemudahan."(Q.S Al-
+                                                       Insyirah:6).
+                                                ُ
+                                                                                    َ
+                               ۚ ٖ ﺖَﺟَرَد  َ ﻢﻠِﻌﻟٱ اﻮﺗوأ  َ ﻦﻳِﺬﻟٱَو  ۡ ﻢﻜﻨ ِﻣ اﻮُﻨ َ ﻣاَء  َ ﻦﻳِﺬﻟٱ  ُ ﻪﻠﻟٱ ﻊﻓۡﺮَﻳ .....
+                                                                            ﱠ
+                                                                               ﱠ
+                                                                ْ
+                                                      ﱠ
+                                        ۡ ۡ ْ ُ
+                                                           ُ
+                                 ٰ
+                                                                                   ِ
+                 Artinya : ".... Allah akan meninggikan orang-orang yang beriman di antaramu
+                  dan orang-orang yang diberi ilmu pengetahuan beberapa derajat."(Q.S Al-
+                                                     Mujadalah:11).
+                                        Sumber :  Al-qur'an dan Terjemahannya
+
+
+
+
+
+      iii              Modul Matematika SMP 8 - SPLDV]]></page><page Index="8"><![CDATA[Petunjuk Penggunaan Modul
+
+
+
+                        Untuk  memperoleh  pemahaman  belajar  secara  maksimal,  maka  langkah-
+              langkah yang perlu dilakukan pada modul ini antara lain:
+                 1.  Berdoalah sebelum memulai belajar.
+                2.  Untuk mempelajari modul ini haruslah berurutan karena materi sebelumnya
+                   menjadi prasyarat untuk mempelajari materi berikutnya.
+
+                 3.  Ikuti setiap instruksi atau petunjuk yang ada pada kegiatan dalam modul ini
+                   dengan cermat dan teliti.
+                4.   Pahamilah  setiap  contoh  penerapan  SPLDV  dan  contoh-contoh  soal  yang
+
+                   terdapat dalam modul.
+                5.  Ulangi apabila kamu kurang memahami materi yang disajikan, lanjutkan jika
+                   kamu sudah menguasai materi.
+                6.   Kerjakan  soal  evaluasi  dengan  cermat  dan  sungguh-sungguh  secara
+
+                   mandiri.
+                7.   Catatlah  kesulitan-kesulitan  yang  belum  dapat  dipecahkan,  kemudian
+                   tanyakan  kepada  Guru  saat  kegiatan  pembelajaran  atau  diskusikan
+                   bersama teman kelompok.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      iii              Modul Matematika SMP 8 - SPLDV]]></page><page Index="9"><![CDATA[TUJUAN PEMBELAJARAN
+
+
+
+
+
+
+
+
+
+                   Setelah  menyelesaikan  semua  aktivitas  pembelajaran  pada  modul  ini,
+             diharapkan siswa:
+           1.  Mampu memahami konsep sistem persamaan linear dua variabel.
+          2.  Dapat mengenal sistem persamaan linear dua variabel dalam berbagai bentuk dan
+             variabel;.
+
+          3.  Mampu membuat dan menyelesaikan model matematika dari masalah kontekstual
+             yang berkaitan dengan sistem persamaan linear dua variabel.
+          4.  Mampu menyelesaikan sistem persamaan linear dua variabel dari suatu masalah
+
+             dengan menggunakan metode grafik, eliminasi, dan substitusi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Kamu tentu akan cepat
+                                                 memahami pelajaran jika
+                                                 selalu rajin berlatih.
+
+                                                 Tekun dan aktif
+                                                 berlatihlah. Renungkan
+                                                 dan ingatlah kembali
+                                                 pelajaran yang sudah
+                                                 kamu pelajari pada
+
+                                                 setiap akhir pelajaran.
+
+
+
+
+     iv              Modul Matematika SMP 8 - SPLDV]]></page><page Index="10"><![CDATA[PETA KONSEP
+
+
+
+
+
+
+
+
+                                                                                          Pengertian Persamaan
+                                                                                            Linear Dua Variabel
+
+
+
+                                             Persamaan Linear Dua
+                                                     Variabel
+
+
+
+
+
+                                                                                         Penyelesaian Persamaan
+                                                                                            Linear Dua Variabel
+
+
+
+
+
+
+
+                                                                                            Penyelesaian  Sistem
+    Sistem Persamaan Linear                                                                Persamaan Linear Dua
+           Dua Variabel                      Sistem Persamaan Linear                      Variabel dengan metode
+              (SPLDV)                               Dua Variabel                                     grafik
+
+
+
+                                                                                             Penyelesaian  Sistem
+                                                                                            Persamaan Linear Dua
+                                                                                           Variabel dengan metode
+                                                                                                    Substitusi
+
+
+                                                                                            Penyelesaian  Sistem
+                                                                                           Persamaan Linear Dua
+                                                                                          Variabel dengan metode
+                                                                                                   Eliminasi
+
+
+
+
+                                                                                               Membuat model
+                                                                                               matematika dari
+                                                                                          masalah yang diberikan
+                                             Menyelesaikan  SPLDV
+                                               yang berhubungan
+                                                 dengan masalah                          Mencari penyelesaian dari
+                                                    kontekstual
+                                                                                              model matematika
+
+
+
+
+
+      v              Modul Matematika SMP 8 - SPLDV]]></page><page Index="11"><![CDATA[Sip!
+                                                                   Sip!
+                                                                   Sip!
+                                                              Sudah siap
+                                                              Sudah siap
+                                                              Sudah siap
+                                                                 belajar?
+                                                                 belajar?
+                                                                 belajar?
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     Kita masuk kemateri.
+
+
+                                                     Kosongkan gelasnya dulu,
+
+                                                     rendahkan hatinya, agar siap
+
+
+                                                     menerima ilmu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     vii             Modul Matematika SMP 8 - SPLDV]]></page><page Index="12"/><page Index="13"><![CDATA[KEGIATAN PEMBELAJARAN
+
+
+
+
+
+
+
+
+
+
+                            KONSEP PERSAMAAN LINEAR DUA
+                                                   VARIABEL
+
+
+
+
+
+
+
+               Kompetensi Dasar                                              Indikator
+               Kompetensi Dasar
+                                                                             Indikator
+                Menjelaskan sistem persamaan                         Menjelaskan konsep persamaan
+                linear dua variabel dan                              linear dua variabel dari suatu
+
+                penyelesaiannya yang                                 konteks.
+                berkaitan dengan masalah                             Membuat persamaan linear dua
+                kontekstual.
+                                                                     variabel sebagai model
+
+                                                                     matematika dari suatu konteks.
+                                                                     Mengidentifikasi sistem
+                                                                     persamaan linear dua variabel
+                                                                     dalam berbagai bentuk dan
+
+                                                                     variabel.
+
+                Pendidikan Karakter
+                Pendidikan Karakter
+
+               Dengan mempelajari materi konsep sistem persamaan linear dua variabel pada
+               kegiatan belajar 1 peserta didik mapu mengembangkan karakter:
+                   Rasa  ingin  tahu  :  Sikap  dan  tindakan  yang  selalu  berupaya  untuk
+                   mengetahui lebih mendalam dan meluas dari sesuatu yang telah dipelajari,
+
+                   dilihat, dan didengar.
+                   Kreatif  :  Berpikir  dan  melakukan  sesuatu  untuk  menghasilakan  cara  atau
+                   hasil baru dari sesuatu yang telah dimiliki.
+
+                   Mandiri : sikap dan perilaku yang tidak mudah tergantung pada orang lain
+                   dalam menyelesaikan tugas-tugas.
+                   Bekerja Keras : Perilaku yang menunjukan upaya sungguh-sungguh dalam
+                   mengatasi  berbagai  hambatan  belajar  dan  tugas,  serta  menyelesaikan
+
+                   tugas dengan sebaik-baiknya.
+
+
+
+
+
+
+
+
+
+      1              Modul Matematika SMP 8 - SPLDV]]></page><page Index="14"><![CDATA[Sistem Persamaan Linear Dua Variabel
+                               Sistem Persamaan Linear Dua Variabel
+                                           Dalam Kehidupan Kita
+                                            Dalam Kehidupan Kita
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Gambar Toko Alat Tulis Sekolah
+                                            Sumber : Detik.com
+
+
+                 Pernahkah kalian berbelanja di toko buku? Pasti sudah pernah, kan? Misalkan
+             suatu  saat  kamu  dan  temanmu  membeli  6  buku  tulis  dan  3  pensil  dengan  tidak
+             memerhatikan harga dari masing-masing buku dan pensil tersebut sehingga kamu
+
+             harus  membayar  sejumlah  Rp24.000,  sedangkan  temanmu  membeli  4  buku  tulis
+             dan 2 pensil dengan ia harus membayar sejumlah Rp16.000. Nah, dapatkah kamu
+             menentukan  berapa  harga  masing-masing  dari  buku  dan  pensil  tersebut?
+
+             Bagaimanakah  kita  dapat  memecahkan  permasalahan  ini?  Dapatkah  kita
+             selesaikan  dengan  sistem  persamaan  linear  dua  variabel?  Dan  dapatkah  kamu
+             menentukan harga 2 buku tulis dan 3 pensil?
+
+
+                     Caranya  dengan  memisalkan  buku  tulis  sebagai  x  dan  pensil  sebagai  y  lalu
+
+             menjadikannya  sebagai  sebuah  model  matematika  dari  suatu  persamaan  linear
+             dua variabel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      2              Modul Matematika SMP 8 - SPLDV]]></page><page Index="15"><![CDATA[A
+
+
+                          Memahami dan menjelaskan konsep persamaan linear dua
+
+                                               variabel dari suatu konteks
+
+
+                   Sebelum  membahas  persamaan  linear  dua  variabel,  kita  akan  mengingat
+             kembali materi tentang persamaaan linear dengan satu variabel yang telah kalian
+
+             pelajari di kelas VII. Kemudian, perhatikan persamaan-persamaan berikut ini!
+                 y + 2 = 8
+                 3q - 7 = 11
+                 6x = x + 2
+
+
+
+                   Masing-masing dari persamaan tersebut hanya memiliki satu variabel  yaitu x,
+             q, dan y dengan setiap variabelnya berderajat satu. Persamaan yang memiliki satu
+             variabel dan variabelnya berpangkat satu disebut persamaan linear dengan satu
+
+             variabel.
+
+
+
+
+
+
+                           Perhatikan masalah berikut!
+
+                       Bagus  dan  Tania  merupakan  dua  bersaudara  kakak  beradik.  Saat  ini  umur
+             Tania 7 tahun lebih muda daripada Bagus. Hari ini, Bagus genap berusia 22 tahun.
+
+             Berapakah umur Tania saat ini?
+
+
+                                                                               Apa yang kalian
+                                                                               ketahui tentang
+                                                                                 umur Tania?
+
+
+
+                   Ya, dia 7 tahun lebih muda dari Bagus kakaknya. Jika kita
+              misalkan  nih,  umur  Tania  dengan  x  tahun,  apa  yang  kita
+              peroleh? yuup!
+
+              x + 7 = umur Bagus
+              Jadi, bila hari ini Bagus berulangtahun yang ke-22, maka
+              x + 7 = 22
+              x + 7 - 7 = 22 - 7
+
+               x + 0 = 15
+              x = 15
+
+
+              Dengan demikian, hari ini Tania berumur 15 tahun.
+
+
+
+
+
+
+
+
+
+      3              Modul Matematika SMP 8 - SPLDV]]></page><page Index="16"><![CDATA[Kegiatan 1             Membuat persamaan lienar dua variabel dalam
+                                     berbagai bentuk dan variabel dari suatu konteks
+
+
+
+
+
+                                           Masalah 2.1
+
+
+
+                     Perhatikan  tabel  dibawah  yang  menunjukkan  hubungan  antara  banyak  tahu
+             crispy dan banyak okky jelly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         Gambar 1.1 Tahu Crispi dan Minuman
+
+
+
+
+             Salinlah tabelnya dan lengkapi isinya!.
+
+             Tabel 1.1 Daftar Harga Tahu Crispi dan Okky Jelly
+
+
+                             Tahu Crispi                 Okky Jelly
+
+               No. banyak harga jumlah banyak harga                    jumlah              Jumlah
+                      tahu     satuan harga        okky     satuan     harga        keseluruhan harga
+                      crispi    (Rp)      (Rp)      jelly     (Rp)      (Rp)                 (Rp)
+
+
+
+
+                1       5       1.000    5.000        1      2.000     2.000      5.000 + 2.000 = 7.000
+
+
+                        7
+                2               1.000     ......      3      2.000     6.000        ...... + 6.000 = ........
+
+
+
+
+
+                3       4       1.000      ......     6         n        6n              ....... + 6n
+
+
+
+
+                4      10         x        10x        4         y        ......          10x + 4y
+
+
+
+
+                5       6         q        ......     5         m        .....           ...... + ......
+
+
+
+
+     4               Modul Matematika SMP 8 - SPLDV]]></page><page Index="17"><![CDATA[1.
+             Pada  isian  tabel  nomor  3,  jika  jumlah  harga  tahu  crispy  dan  okky  jelly  Rp16.000,
+             maka kalimatnya menjadi 4.000 + 6n = 16.000.
+             Bentuk 4.000 + 6n = 16.000 adalah persamaan linear?
+
+
+
+                 Jawab:
+
+
+
+
+
+
+
+
+
+
+             Pada  isian  tabel  nomor  4  dan  5,  jika  jumlah  harga  seluruhnya  masing-masing
+          2.
+             Rp18.000 dan Rp16.000, maka kalimatnya menjadi?
+
+
+
+                 Jawab:
+               10x +            = 18.000 dan            +            = 16.000.
+
+               Bentuk-bentuk persamaan seperti 10x +           = 18.000 dan           +            =
+
+               16.000 disebut persamaan linear                           (PL             ).
+
+                   Pada PLDV 10x +           = 18.000, yang menjadi variabelnya adalah x dan
+
+                   ......          kemudian  untuk  PLDV                    +                            =  16.000  yang  menjadi
+
+                   variabelnya adalah             dan             .
+
+
+
+
+             Perhatikan persamaan 3x + 2y = 12!
+          3.
+
+
+             Persamaan tersebut diatas mempunyai dua variabel yakni variabel x dan variabel
+             y, yang mana masing-masing variabel berpangkat satu. Persamaan seperti
+             3x + 2y = 12 disebut persamaan linear dua variabel (PLDV).
+
+
+             Berikut beberapa contoh lain  dari persamaan linear dua variabel (PLDV):
+
+                1.  2m - 2n = 12
+               2.  x + 4y = 16
+                3.  9a + 10b - 8 = 0
+
+
+
+             Persamaan linear dua variabel (PLDV) dinyatakan dalam bentuk umum yaitu
+             ax + by = c dengan a, b, dan c merupakan bilangan real.
+
+
+             Nah, berkaitan dengan uraian diatas, apakah persamaan 7x - 3xy = 9 merupakan
+
+             PLDV?
+
+
+
+      5              Modul Matematika SMP 8 - SPLDV]]></page><page Index="18"><![CDATA[Masalah 2.2
+
+
+
+                     Untuk  lebih  memahami  konsep  persamaan  linear  dua  variabel,  perhatikan
+
+             permasalah berikut!
+
+                     Danu  ingin  membeli  buah  jeruk  dan
+             buah  apel.  Dia  merencanakan  membeli
+
+             sebanyak  20  buah.  Berapa  banyaknya
+             masing-masing  buah  apel  dan  buah  jeruk
+             yang mungkin dibeli oleh Danu?
+             Lengkapilah        tabel      berikut      yang
+
+             menunjukkan kemungkinan jawabannya.
+
+
+
+
+
+                  Apel         3      10     ...    ...    ...
+                                                       ...
+
+                  Jeruk        17    10      ...    8      ...
+
+                                                                       Gambar 1.2 Buah-buahan
+
+
+
+
+
+             Persamaan  yang  merepresentasikan  berapa  banyak  masing-masing  buah  yang
+             akan dibeli Danu adalah:
+
+
+
+
+                          x              +                 y               =         20
+
+
+
+               variabel x mewakili       variabel y mewakili       banyaknya buah
+
+                 banyaknya buah          banyaknya buah            Jeruk dan buah
+                        Apel             Jeruk                     Apel yang dibeli
+
+
+
+
+             Tabel di atas menunjukkan banyak buah yang mungkin akan dibeli Danu. Ia bisa
+             membeli 3 apel dan 17 Jeruk, atau 10 apel dan 10 jeruk, atau yang lainnya. Banyak
+             apel dan jeruk dapat bervariasi. Jika x mewakili jeruk dan y mewakili apel. Maka,
+             berapa  banyak  masing-masing  buah  yang  dibeli  Danu  dapat  dituliskan  sebagai
+             persamaan linier dua variabel x dan y (bisa menggunakan variabel apa saja). Dari
+
+             persamaan  linier  dua  variabel  x  +  y  =  20,  kamu  dapat  menyatakan  variabel  x
+             dalam variabel y, yaitu x = 10 - y.
+
+
+
+
+
+
+
+      6              Modul Matematika SMP 8 - SPLDV]]></page><page Index="19"><![CDATA[1.   Coba nyatakan variabel yang lain yaitu variabel y dalam x!
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           2.  Carilah contoh persamaan linear dengan dua variabel yang lain!
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+             Kemudian,  nyatakan  sebuah  variabel  dalam  variabel  yang  lain  pada  contoh-
+           3.
+             contoh yang kalian temukan!
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      7              Modul Matematika SMP 8 - SPLDV]]></page><page Index="20"><![CDATA[4.                                  Sekarang perhatikan
+                                              permasalahan berikut!
+
+
+
+
+
+                                  Kevin  membeli  empat  buah  buku  dan
+                                  dua  buah  pensil.  Harga  seluruhnya  Rp
+
+                                  11.000.
+                                  Ubahlah  pernyataan  di  atas  dalam
+                                  kalimat  matematika!  Coba  berikan
+                                  beberapa  contoh  permasalahan  lain
+
+                                  yang      dapat      dinyatakan       dengan
+                                  persamaan linier dengan dua variabel,
+                                  dan nyatakan persamaannya!
+
+
+
+
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              Hidup ini seperti buku.
+                                      Hanya karena kau tengah berada pada
+                                                 halaman penuh luka,
+                                     bukan berarti tiada lagi bahagia pada
+                                                halaman selanjutnya.
+
+                                                Terusalah melangkah!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      8              Modul Matematika SMP 8 - SPLDV]]></page><page Index="21"><![CDATA[Ayo simak video berikut!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Sumber : Math Class Ku
+                                                      Video konsep persamaan linear dua variabel
+
+           1.  Kamu  telah  mempelajari  video  mengenai  konsep  persamaan  linear  dua  variabel.
+
+             Coba tuliskan pengertian persamaan linear dua variabel?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+           2.  Carilah  sedikitnya  5  contoh  yang  termasuk  persamaan  linear  dua  variabel  dan
+              yang bukan persamaan linear dua variabel dari buku matematika, internet, atau
+
+              dari sumber lainnya!
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+      9              Modul Matematika SMP 8 - SPLDV]]></page><page Index="22"><![CDATA[B
+
+
+                            Penyelesaian persamaan linear dua variabel dari suatu
+                                                           konteks
+
+
+
+
+                   Perhatikan persamaan 2x + y = 6. Persamaan 2x + y = 6 masih dalam bentuk
+             kalimat terbuka, artinya belum mempunyai nilai kebenaran. Jika nilai x kita ganti
+
+             bilangan 2 maka nilai y yang memenuhi adalah 2. Karena pasangan bilangan (2, 2)
+             dimana  memenuhi  persamaan  tersebut,  maka  persamaan  2x  +  y  =  6  menjadi
+             kalimat yang benar. Dalam hal ini dikatakan bahwa (2, 2) merupakan salah  satu
+             penyelesaian dari persamaan 2x + y = 6.
+
+
+
+                   Apakah  hanya  (2,  2)  yang  merupakan  penyelesaian  2x  +  y  =  6?  Untuk
+             menentukan  himpunan  penyelesaian  dari  2x  +  y  =  6  dengan  x  +  y  variabel  pada
+             himpunan bilangan cacah maka kita harus mencari nilai x dan y yang memenuhi
+
+             persamaan tersebut.
+
+
+                   Untuk mencari nilai x dan y yang memenuhi persamaan 2x + y = 6. Agar lebih
+             mudah  mencari  penyelesaian  suatu  persamaan  biasanya  digunakan  tabel.
+
+             Perhatikan contoh berikut ini!
+
+
+                                       Memahami dan menjelaskan penyelesaian PLDV
+                Kegiatan 1
+                                                        dengan metode grafik
+
+                   Untuk mencari nilai x dan y yang memenuhi persamaan 2x + y = 6. Agar lebih
+
+             mudah mencari penyelesaian suatu persamaan biasanya digunakan tabel berikut
+             ini!
+
+                                                                Jadi,  himpunan  penyelesaian  dari
+                    x          0      1      2      ...    ...  persamaan 2x + y = 6 adalah {(0, 6),
+                                                       ...      (1, 4), (2, 3), (2, 2), ...,...}.
+
+                    y          6      4      2     ...     ...
+                                                                Lengkapilah  tabel  tersebut  dan  buat
+
+                  (x, y)     (0, 6) (1, 4) (2, 2)  ...     ...  grafik  persamaan  2x  +  y  =  6  pada
+                                                                bidang Cartesius?!
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+     10              Modul Matematika SMP 8 - SPLDV]]></page><page Index="23"><![CDATA[Sekarang perhatikan
+
+                                    permasalahan berikut!
+
+
+
+
+
+
+
+
+
+                       Andi membawa kotak yang berisi gula dan
+                       tepung.  Berat  kotak  tersebut  12  kg.
+                       Ternyata, di dalam kotak tersebut terdapat
+
+                       dua bungkus gula yang beratnya sama dan
+                       juga  terdapat  tiga  bungkus  tepung  yang
+                       beratnya sama.
+
+
+
+
+
+
+
+             Buatlah  bentuk  persamaan  linear  dua  variabel  pada
+           1.
+             pernyataan diatas?
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+           2.Tentukanlah berat satu bungkus gula dan satu bungkus tepung yang mungkin.
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     11              Modul Matematika SMP 8 - SPLDV]]></page><page Index="24"><![CDATA[Pada  persamaan  yang  telah  kamu  tentukan  pada  soal  nomor  1,  buatlah
+          3.
+             penyelesainnya pada tabel berikut!
+
+
+                                 Koordinat
+
+                Persamaan            titik       Koordinat           ...              ...           ...
+                                  pertama       titik kedua
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           4. Buatlah grafik persamaan berdasarkan tabel yang telah kamu tentukan!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 Grafik yang diperoleh
+                                  berupa garis lurus,
+                                    dimana seluruh
+                                  penyelesaian PLDV
+                                  berada pada grafik
+                               tersebut dan banyaknya
+                               tak berhingga. Kenapa?
+
+
+                                 Silahkan  tonton  video
+                                 berikut     untuk     dapat
+                                 memahami  penyelesaian                     Sumber : Fatkhur Rohmah
+                                 PLDV!
+
+
+
+     12              Modul Matematika SMP 8 - SPLDV]]></page><page Index="25"/><page Index="26"><![CDATA[C             Latihan
+
+
+
+
+
+
+                          Ibu membeli roti kaleng (Good time), tetapi  uang
+                      1.
+                          ibu  kurang  Rp10.000.  Ibu  minta  kekurangannya
+
+
+                          kepada  Ayah.  Setelah  diberikan  pada  Ibu,  sisa
+
+
+                          uang  Ayah  sama  dengan  tiga  kali  harga  roti.
+
+                          Harga  roti  Rp30.000.  Berapa  uang  Ayah  mula-          Roti Goodtime 149g
+
+
+                          mula?
+
+                               Bermain Kelereng
+                      2.
+                                                          Kelereng    Haikal    10   buah   lebih   banyak
+
+
+                                                          dibandingkan      kelereng   Ahmad.     Kelereng
+
+
+                                                          Ahmad      sebanyak       24    buah.    Berapa
+                                     Sumber :             banyaknya kelereng Haikal?
+                           inibaru.id/bermain kelereng
+
+
+
+
+
+                          Perhatikan percakapan kedua siswa berikut!
+                     3.
+                          Beni    :  "Seharusnya  persamaan  2x  +  6y  -  8  =  0,  tidak  mempunyai
+
+
+                           selesaian!."
+
+
+                          Danu : "Loh?, 2x + y - 8 = 0, mempunyai selesaian! Misalnya, (2, -2)."
+
+                          a. Mengapa Beni mengatakan seperti itu, sedangkan Danu mengatakan
+
+                          hal yang berbeda?
+
+
+                          b. Nah, untuk himpunan bilangan yang bagaimanakah pernyataan Beni
+
+
+                          benar?
+
+
+
+
+
+
+
+
+
+
+
+
+
+     13              Modul Matematika SMP 8 - SPLDV]]></page><page Index="27"><![CDATA[D             Rangkuman
+
+
+
+
+
+                 Setelah mengikuti kegiatan pembelajaran ini, kamu pasti sudah mulai mampu
+             mengidentifikasi  permasalahan  dalam  kehidupan  sehari-hari  yang  berkaitan
+             dengan  persamaan  linear  dua  variabel  serta  menentukan  penyelesaiannya.
+             Jawablah  pertanyaan-pertanyaan  berikut  ini  untuk  membuat  rangkuman  yang
+
+             tepat.
+
+             Apa yang kamu ketahui tentang persamaan linear dua variabel?
+          1.
+             Berikan  contoh  persamaan  linear  dua  variabel?  tuliskan  dengan  variabel  yang
+          2.
+             berbeda!
+             Apa  yang  kamu  perlukan  ketika  membuat  tabel  untuk  menentukan  selesaian
+          3.
+             persamaan linear dua variabel?
+
+             Bagaimana  grafik  dapat  membantu  kamu  untuk  menentukan  selesaian
+          4.
+             persamaan linear dua variabel?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           Silahkan klik link berikut
+                                                               untuk menjawab
+                                                            beberapa pertanyaan
+
+                                                                  rangkuman.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     14              Modul Matematika SMP 8 - SPLDV]]></page><page Index="28"><![CDATA[E             Refleksi
+
+
+
+
+
+                 Setelah kamu mempelajari dan mengikuti setiap aktivitas pembelajaran pada
+             materi  persamaan  linear  dua  variabel,  ungkapkan  perasaan  kamu  secara  jujur
+             dan  bertanggung  jawab  berkaitan  dengan  proses  pada  aktivitas  pembelajaran
+             tersebut.
+
+
+             Hal-hal baru apa yang kamu ketahui setelah mengerjakan kegiatan pembelajaran
+           1.
+             1?
+             Tuliskan jawaban kamu.
+
+           2. Apakah  kamu  mengalami  kesulitan  dalam  memahami  penyelesaian  persamaan
+              linear dua variabel? Jika iya, bagian yang mana?
+           3.Tuliskan  sejauh  mana  keberhasilan  kamu  dalam  menyelesaikan  kegiatan  dan
+
+             menyelesaiakan soal latihan pada kegiatan pembelajaran 1 ini?
+           4.Ungkapkan tanggapan kamu terhadap penyampaian kegiatan pembelajaran 1 di
+             modul ini dengan memilih emoticon berikut:
+
+
+
+
+
+
+
+                            Sangat menarik              Biasa aja            Tidak menarik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                         Silahkan klik link berikut
+
+                                                             untuk menjawab
+                                                          beberapa pertanyaan
+                                                                  refleksi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     15              Modul Matematika SMP 8 - SPLDV]]></page><page Index="29"><![CDATA[Miskin
+
+
+
+
+
+
+
+
+
+             dan                 kaya itu
+
+
+
+
+
+
+
+             indikatornya
+
+
+
+
+
+
+
+
+              adalah seberapa mampu
+
+
+
+
+
+
+
+
+             kita                  memberi
+
+
+
+
+
+
+
+
+              dan                 berbagi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Semua Agama mengajarkan
+
+
+
+
+              itu, bukan?]]></page><page Index="30"><![CDATA[KEGIATAN PEMBELAJARAN
+
+
+
+
+
+
+
+
+
+
+
+                         SISTEM PERSAMAAN LINEAR DUA
+                       VARIABEL DAN PENYELESAIANNYA
+
+
+
+
+
+
+               Kompetensi Dasar                                              Indikator
+               Kompetensi Dasar
+                                                                             Indikator
+                                                                      Membuat model matematika dari
+               Menyelesaikan masalah yang                             situasi yang diberikan dalam
+
+               berkaitan dengan sistem                                bentuk sistem persamaan linear
+               persamaan linear dua variabel.
+                                                                      dua variabel.
+                                                                      Menyelesaikan model
+
+                                                                      matematika dari situasi yang
+                                                                      diberikan dalam bentuk sistem
+                                                                      persamaan linear dua variabel
+                                                                      dengan metode grafik, eliminasi,
+
+                                                                      dan substitusi.
+
+                Pendidikan Karakter
+                Pendidikan Karakter
+
+               Dengan mempelajari materi konsep sistem persamaan linear dua variabel pada
+               kegiatan belajar 1 peserta didik mapu mengembangkan karakter:
+                   Rasa  ingin  tahu  :  Sikap  dan  tindakan  yang  selalu  berupaya  untuk
+                   mengetahui lebih mendalam dan meluas dari sesuatu yang telah dipelajari,
+
+                   dilihat, dan didengar.
+                   Kreatif  :  Berpikir  dan  melakukan  sesuatu  untuk  menghasilakan  cara  atau
+                   hasil baru dari sesuatu yang telah dimiliki.
+
+                   Mandiri : sikap dan perilaku yang tidak mudah tergantung pada orang lain
+                   dalam menyelesaikan tugas-tugas.
+                   Bekerja Keras : Perilaku yang menunjukan upaya sungguh-sungguh dalam
+                   mengatasi  berbagai  hambatan  belajar  dan  tugas,  serta  menyelesaikan
+
+                   tugas dengan sebaik-baiknya.
+
+
+
+
+
+
+
+
+
+     16              Modul Matematika SMP 8 - SPLDV]]></page><page Index="31"><![CDATA[A
+
+                              Membuat Model Matematika Sistem Persamaan Linear Dua
+                                            Variabel dari masalah yang diberikan
+
+
+
+                           Dalam  kehidupan  sehari-hari  kita  dapat  menemukan  solusi  permasalahan
+             yang  berhubungan  dengan  sistem  persamaan  linear  dua  variabel.  Langkah awal
+             untuk  menyelesaikan  permasalahan  yang  berhubungan  dengan  SPLDV  adalah
+
+             membuat model matematika.
+
+
+                     Model  matematika  ini  merupakan  penjabaran  soal  ke  dalam  kalimat
+             matematika. Hal ini, kamu harus mengetahui mana yang menjadi variabel, mana
+
+             yang  menjadi  koefisien,  dan  mana  yang  menjadi  konstanta  dari  permasalahan
+             yang diberikan.
+
+
+                    Untuk dapat membuat model matematika sistem permasalahan linear dua
+
+             variabel, ayo pelajari permasalahan berikut dengan seksama!
+
+
+
+
+                                           Masalah 2.1
+
+
+
+                      Andi dan Dina membeli buku tulis dan pulpen di toko yang sama dengan bukti
+             pembayaran sebagai berikut.
+
+
+
+
+
+
+
+               Diterima dari          : Andi                      Diterima dari          : Dina
+
+
+               Banyaknya Uang    : Rp20.500                       Banyaknya Uang    : Rp18.000
+
+
+               Untuk Pembayaran :  3 buku tulis                   Untuk Pembayaran :  4 buku tulis
+                                        dan 5 pulpen                                       dan 2 pulpen
+               Date                        :   20 Januari 2022    Date                        :   20 Januari 2022
+
+
+
+
+                      Toko ROYAL ATK                                    Toko ROYAL ATK
+                    Batang Hari - Rawa Pitu                            Batang Hari - Rawa Pitu
+
+
+                             Gambar 2.1 Nota bukti pembayaran beli buku tulis dan pulpen
+
+
+
+                  Perhatikan struk pembayaran diatas,  kemudian jawablah beberapa pertanyaan
+             berikut untuk dapat mengetahui harga satuan untuk buku tulis dan pulpen.
+
+
+
+
+     17              Modul Matematika SMP 8 - SPLDV]]></page><page Index="32"><![CDATA[1.  Tanpa  mengetahui  harga  sebuah  buku  tulis  dan  pensil,  dapatkah  kamu
+
+             menentukan barang yang mana lebih mahal?
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+          2.  Sebutkan jenis alat tulis yang dibeli Andi dan Dina, serta tentukan variabel yang
+
+             berbeda untuk jenis alat tulis yang dibeli?
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+          3.  Buatlah  model  matematika  dari  masalah  tersebut  dengan  variabel  yang  telah
+
+             kamu tentukan?
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+          4. Berapa banyak buku tulis yang dapat dibeli jika kamu mempunyai uang Rp15.000?
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     18              Modul Matematika SMP 8 - SPLDV]]></page><page Index="33"><![CDATA[Masalah 2.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Gambar 2.2 : Toko Bangunan
+                       Sumber : republika.co.id/berita/mejtrik-memasarkan-produk-toko-
+                       bangunan
+
+
+
+                       Pak  Saiful  dan  Pak  Dedi  pergi  ke  toko  bangunan  bersama-sama.  Pak  Saiful
+             membeli 2 kg cat kayu dan 3 kg cat tembok dengan harga seluruhnya Rp180.000.
+             Sedangkan, Pak Dedi membeli 1 kg cat kayu dan 2 kg cat tembok dengan harga
+             seluruhnya Rp110.000.
+
+
+
+                      Sementara itu, Pak Alfin menginginkan membeli 5 kg cat kayu dan 2 kg cat
+             tembok.
+
+            1.  Bagaimana cara kalian menentukan harga 1 kg kayu dan 1 kg cat tembok, jika
+
+             nota pembayarannya hilang?
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     19           Modul Matematika SMP 8 - Semester 1]]></page><page Index="34"><![CDATA[2. Berapa orang yang membeli cat?
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+           3. Tuliskan model matematikanya?
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+           4. Sekarang mari kita tabelkan persoalan tersebut.
+
+
+             Salin dan lengkapilah tabel berikut!
+
+
+
+                                          Cat Kayu          Cat Tembok
+                   Nama                                              ...               Persamaannya
+                               Banyaknya      Harga     Banyaknya        Harga
+
+
+                 Pak Saiful         2            x             3           y                  ---
+
+
+                     ---            ---         ---           2            y                  ---
+                                                                 ---
+
+              Dari tabel diatas akan diperoleh dua PLDV, yaitu      + 3y = 180.000  dan
+                   + 2y =              .
+                                                                                             Info
+
+
+                                                                                           Kedua PLDV
+
+                                                                                          harus memiliki
+                                                                                          penyelesaian
+                                                                                           yang sama.
+
+
+
+
+
+
+
+
+
+
+     20              Modul Matematika SMP 8 - SPLDV]]></page><page Index="35"><![CDATA[Untuk  menyelesaikan  kedua  persamaan  linear  dua  variabel  tersebut  diatas,
+             dapat kita cari dengan menggunakan grafik dari persamaan garis.
+
+
+
+                   2x + 3y = 180.000 dapat dinyatakan dengan 2x + 3y = 18 (uang dalam sepuluh
+             ribuan).  lalu  buatkan  tabelnya  agar  lebih  mudah  menentukan  titik-titik
+             koordinatnya.
+
+
+
+                     x               0
+
+
+
+
+                     y                6              0
+
+
+
+
+                   (x, y)          (0, 6)        (     , 0)
+
+
+
+
+
+
+             x + 2y = 110.000 dapat dinyatakan dengan x + 2y = 11 (uang dalam sepuluh ribuan).
+             lalu buatkan tabelnya agar lebih mudah menentukan titik-titik koordinatnya.
+
+
+
+
+
+                     x                                3
+
+
+
+
+                     y               0
+
+
+
+
+                   (x, y)         (      , 0)   ( 3,       )
+
+
+
+
+
+
+
+          5.  Gambarkan grafik kedua PLDV tersebut dan tentukan kedua titik potongnya ?!
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     21              Modul Matematika SMP 8 - SPLDV]]></page><page Index="36"><![CDATA[B
+
+
+
+                               Penyelesaian Sistem Persamaan Linear Dua Variabel
+
+
+
+
+
+
+
+              Kegiatan 1          Memahami konsep penyelesaian sistem persamaan linear dua
+                                                                  variabel
+
+
+
+                      Kamu  telah  mempelajari  penyelesaian  dari  bentuk  persamaan  linear  dua
+              variabel (PLDV). Bagaimana penyelesaian dari dua bentuk persamaan linear dua
+              variabel?  Agar  kamu  lebih  mudah  untuk  memahaminya,  perhatikan  ilustrasi
+              berikut!.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    Rp150.000,
+                          Rp120.000,
+
+                   Dani membeli sebuah baju dan 2 buah kaos, ia harus membayar Rp120.000.
+             Adapun  Pipit  membeli  2  baju  dan  3  buah  kaos,  ia  harus  membayar  Rp180.000.
+             Dapatkah kalian menentukan harga dari sebuah baju dan sebuah kaos?
+
+
+           1.  Dapatkah kalian menentukan harga dari sebuah baju dan sebuah kaos? Diskusikan
+             hal ini dengan teman sebangkumu.
+
+
+
+
+                                                                                  Kamu perlu tahu!
+                Jawab:                                                          membentuk sistem persamaan
+
+                                                                                  Apabila terdapat dua PLDV
+
+                                                                                 yang berbentuk ax + by = c dan
+                                                                                 dx + ey = f maka dikatakan dua
+                                                                                persamaan tersebut
+
+
+
+                                                                                linear dua variabel.
+
+                                                                               Penyelesaian tersebut adalah
+                                                                               pasangan bilangan (x, y) yang
+
+
+
+
+     22              Modul Matematika SMP 8 - SPLDV                           memenuhi kedua persamaan.]]></page><page Index="37"><![CDATA[Ayo kita Amati!
+
+
+
+
+             Misalnya kamu akan menentukan penyelesaian dari PLDV 2x - 4y = 6 dan
+             4x – 2y = -12 dengan x dan y variabel pada himpunan bilangan Bulat. Kalian dapat
+
+             menentukan penyelesaiannya dengan mencari nilai x dan y yang memenuhi kedua
+             persamaan  tersebut.  Untuk  memudahkan  kamu  menentukannya,  buatlah  tabel
+             seperti berikut.
+
+
+
+                2x -4y = 6                                     4x – 2y = -12
+
+
+
+                 x        y                                      x       y
+
+                 -1      -2                                     -3       0
+
+                 3        0                                     0        6
+
+                 -5      -4                                     -5      -4
+
+
+
+             Dari tabel di atas tampak bahwa himpunan penyelesaian dari PLDV 2x - 4y = 6
+             adalah {(-1, -2), (3, 0), (-5, -4)}, sedangkan himpunan penyelesaian dari PLDV
+             4x  –  2y  =  -12  adalah  {(-3,  0),  (0,  6),  (-5,  -4)}.  Dari  dua  himpunan  penyelesaian
+             tersebut,    titik  (-5,  -4)  adalah  himpunan  penyelesaian  yang  memenuhi  sistem
+
+             persamaan  2x  -  4y  =  6  dan  4x  –  2y  =  -12.  Adapun  {(-1,  -2),  (3,  0),  (-3,  0),  (0,  6)}
+             dikatakan  bukan  penyelesaian  dari  sistem  persamaan  linear  dua  variabel
+             tersebut.
+
+
+
+             Jika  dibuat  grafik  dalam  sebuah  bidang  koordinat  Cartesius,  titik  (-5,  -4)
+             merupakan titik potong persamaan 2x - 4y = 6 dan 4x – 2y = -12, seperti tampak
+             pada Gambar berikut!.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             Gambar 2.3 Grafik SPLDV
+                                             Sumber : Geogebra
+
+
+
+
+     23              Modul Matematika SMP 8 - SPLDV]]></page><page Index="38"><![CDATA[Menentukan nilai variabel pada SPLDV dengan menggunakan
+               Kegiatan 2
+                                                              metode grafik
+
+
+                     Sesuai  dengan  namanya,  metode  ini  menggunakan  grafik  untuk  menentukan
+             himpunan penyelesaian dari suatu SPLDV. Langkah terpenting pada metode grafik
+             adalah menentukan titik potong antara garis-garis pada SPLDV dan kedua sumbu
+             koordinat.
+
+             Titik  potong  tersebut  dicari  dengan  cara  membuat  tabel  seperti  tabel  pada
+             kegiatan  sebelumnya.  Setelah  itu,  barulah  dicari  titik  potong  kedua  grafik  PLDV
+             yang juga merupakan penyelesaian dari SPLDV tersebut.
+
+             Selanjutnya perhatikan permasalahan berikut!.
+
+
+                                           Masalah 2.1
+
+
+
+                       Ditahun  ajaran  baru,  semua  siswa  antusias  untuk  membeli  perlengkapan
+             sekolah.  Di  toko  “Pelangi“  banyak  siswa  berdatangan  diantaranya  adalah  Adel
+             yang membeli 3 buku dan 6 pensil dengan harga Rp15.000, sedangkan Eli membeli
+
+             5  buku  dan  4  pensil  dengan  harga  Rp16.000.  Nah,  kemudian  ada  siswa  bernama
+             Wahyu  yang  sedang  makan  cilok  di  depan  toko  sambil  mencoba  berpikir  uang
+             tabungannya  cukup  untuk  membeli  berapa  buku  dan  pensil.  Wahyu  menghitung
+             harga 1 buku dan 1 pensil yang harus dibayarkan pada toko Pelangi.
+
+             Ayo bantu Wahyu untuk menentukan harga satuan dari masing-masing buku dan
+             pensil. Kamu dapat jawab pertanyaan-pertanyaan berikut dengan cermat.
+
+           1.  Buatlah pemisalan variabel untuk buku dan pensil?.
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+           2.  Tuliskan  persamaan  –  persamaan  yang  dapat  menggambarkan  permasalahan
+
+              tersebut.
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+     24              Modul Matematika SMP 8 - SPLDV]]></page><page Index="39"><![CDATA[3. Tentukan minimal dua titik yang terletak pada masing-masing persamaan !?
+
+
+              Persamaan 1 :                                   Persamaan 2 :
+
+                               Koordinat                                       Koordinat
+
+                Variabel          titik       Koordinat          Variabel         titik        Koordinat
+                               pertama        titik kedua                       pertama       titik kedua
+
+
+                     x                ...            ...             x                ...             ...
+
+
+                    y                 ...            ...             y                ...             ...
+
+
+
+
+          4.  Buatlah grafik berdasarkan kedua persamaan dari titik-titik koordinat yang telah
+             kamu  tentukan  dan  buatlah  garis  yang  melalui  titik  tersebut.  Kemudian  berilah
+             nama garis m dan n?!
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+          5. Bagaimana kedudukan garis m dan garis n?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+          6.  Berdasarkan grafik yang kamu buat, tentukan titik potong kedua garis!?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     25           Modul Matematika SMP 8 - Semester 1]]></page><page Index="40"><![CDATA[7.  Tuliskan kesimpulan dari grafik yang kamu buat?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              Sekilas Info
+
+
+                                 Keunggulan dari metode grafik adalah kita dapat menentukan
+
+                                 himpunan  penyelesaiannya  secara  visual.  Artinya,  hasilnya
+
+                                 dapat  diketahui  secara  langsung  sekali  lihat.  Kelemahan  dari
+
+                                 metode  grafik  adalah  tidak  efektif  untuk  menyelesaikan  soal
+
+                                 untuk aplikasi SPLDV, tidak baik apabila angka yang ada pada
+
+                                 persamaan  linear  dua  variabel  berbentuk  desimal  karena
+                                 kelihatan tidak presisi pada media grafiknya.
+
+
+
+
+
+
+
+
+
+
+
+                                            Masalah 2.2
+                                            Masalah 2.2
+
+
+
+
+
+                                                                    Kegiatan melengkapi grafik
+
+                                         Ayo lakukan                dengan bantuan geogebra.
+                                        simulasi pada               Untuk lebih memahami metode
+                                         link berikut!              penyelesaian SPLDV dengan
+                                                                    metode grafik.
+
+                                                                    Klik link berikut untuk memulai
+                                                                    aplikasi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+     26              Modul Matematika SMP 8 - SPLDV]]></page><page Index="41"><![CDATA[Menentukan nilai variabel pada SPLDV dengan
+               Kegiatan 3
+                                                    menggunakan metode Eliminasi
+
+
+
+
+                   Penyelesaian  SPLDV  dengan  metode  eliminasi  pada  dasarnya  adalah
+
+             menghilangkan (mengeliminasi)  salah  satu  variabel  dari  sistem  persamaan  yang
+             akan  dicari  himpunan  penyelesaiannya.  Caranya,  dengan  menjumlahkan  atau
+             mengurangkan kedua sistem persamaan tersebut.
+
+
+                           Untuk  menentukan  variabel  y,  maka  hilangkan  terlebih  dahulu  variabel  x.
+
+             Begitu  pula  sebaliknya,  untuk  menentukan  variabel  x,  maka  hilangkan  terlebih
+             dahulu variabel y. Sebagai catatan, untuk menghilangkan variabel x atau y maka
+             koefisien  dari  masing-masing  variabel  dalam  sistem  persamaan  haruslah  sama.
+
+             Jika  salah  satunya  tidak  sama  maka  harus  disamakan  dahulu.  Caranya
+             mengalikan dengan bilangan bulat tertentu sehingga koefisiennya menjadi sama.
+
+
+                      Suatu  persamaan  itu  bisa  diibaratkan  sebagai  neraca  atau  timbangan  yang
+             seimbang. Misal, diberikan dua buah persamaan linear dua variabel:
+
+
+
+             x + y = 12
+             3x - y = 4
+
+
+
+             SPLDV tersebut dapat diilustrasikan sebagai berikut!
+
+
+
+
+
+
+
+
+
+
+
+
+                               x + y               12                          3x - y               4
+
+
+
+
+                                                              Gambar 1
+                                          (a)                                             (b)
+                       Suatu  Persamaan  tetap  ekuivalen,  konsepnya  jika  kedua  ruasnya  ditambah
+
+             atau dikurang dengan bilangan atau bentuk aljabar yang memiliki nilai yang sama.
+
+
+             Perhatikan neraca pada gambar (a)!
+             Karena x+y dan 12 bernilai sama artinya seimbang, maka kita bisa menambahkan
+
+             x+y dan 12 ke neraca gambar (b). Masing-masing di lengan kiri neraca dengan x+y
+             dan di lengan kanan neraca dengan 12 seperti terlihat pada gambar 2 (b). Hasilnya
+             ditunjukkan pada gambar 2 (a).
+
+
+
+     27              Modul Matematika SMP 8 - SPLDV]]></page><page Index="42"><![CDATA[Hasil penambahan
+                                                   persamaan neraca
+                                                    (a) ke neraca (b)
+
+
+                                                                        x + y              12
+
+                         4x                16                          3x - y              4
+
+
+
+
+                                                       Gambar 2
+                                  (a)                                             (b)
+
+
+             Dari neraca gambar 2 (a), kita peroleh persamaan 4x = 16 <=> x = 4.
+             Secara matematis, ilustrasi tersebut dapat dituliskan sebagai berikut.
+
+             3x - y = 4                 persamaan SPLDV kedua
+             3x - y + (x + y) = 4 + 12                ruas kiri ditambah x+y dan ruas kanan ditambah 12.
+                        4x = 16
+                        x = 4
+
+             Atau dapat juga ditulis dengan penjumlahan bersusun.
+             3x - y = 4                      Persamaan SPLDV kedua
+
+             x + y = 12                      persamaan SPLDV pertama
+                           +
+                  4x = 16                     Hasil penjumlahan
+                    x = 4
+
+
+                  Perhatikan bahwa pada penjumlahan kedua persamaan tersebut, kita seolah-
+             olah  menghilangkan  (mengeliminasi)  variabel  y.  Oleh  karena  itu,  metode  ini
+
+             disebut dengan metode eliminasi.
+
+
+
+                                           Lalu bagaimana
+                                            cara mencari
+                                             variabel y ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     28              Modul Matematika SMP 8 - SPLDV]]></page><page Index="43"><![CDATA[Pada uraian diatas, kita telah mengeliminasi variabel y untuk menentukan nilai
+
+             variabel x. Selanjutnya, kita akan mengeliminasi variabel x untuk menentukan nilai
+             variabel y.
+
+
+
+                   Kita lakukan pengurangan kedua persamaan. Namun, sebelumnya kita lakukan
+             penyamaan  koefisien  x  pada  persamaan  SPLDV  pertama  (a)  yaitu  dengan
+             mengalikan  persamaan  dengan  3,  diperoleh  3x  +  3y  =  36  sehingga  kita  bisa
+             langsung mengurangkan kedua persamaan tersebut.
+
+             3x - y = 4                            Persamaan SPLDV kedua (b)
+             3x + 3y = 36                        persamaan SPLDV pertama (a)
+                              -
+                    -4y = -32                     Hasil pengurangan
+
+                       y  = 8
+
+
+             Dengan demikian diperoleh, pasangan nilai x = 4 dan y = 8.
+
+
+             Untuk mengetahui apakah x = 4 dan y = 8 merupakan penyelesaian SPLDV diatas,
+
+             Ayo kita cek!
+
+
+             Untuk x = 4 dan y = 8, maka 3x - y = 4 => 3(4) - 8 = 12 - 8 = 4 (pernyataan benar).
+
+             Untuk x = 4 dan y = 8, maka x + y = 12 => 4 + 8 = 12 (pernyataan benar).
+
+
+
+
+
+
+
+                                                                Jadi, nilai x = 4 dan
+                                                                    y = 8 adalah
+                                                                   penyelesaian
+                                                                  SPLDV 3x - y = 4
+                                                                   dan x + y = 12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     29              Modul Matematika SMP 8 - SPLDV]]></page><page Index="44"><![CDATA[Berdasarkan uraian di atas, tentu kamu dapat memahami penyelesaian sistem
+
+             persamaan  linear  dua  variabel  dengan  menggunakan  metode  eliminasi.  Untuk
+             dapat  lebih  memahami  dan  menerapkan  metode  eliminasi,  selesaikan
+             permasalahan berikut!.
+
+
+
+                                           Masalah 3.1
+
+                     Jelang  lebaran  atau  hari  raya
+             idul fitri, pusat-pusat perbelanjaan
+             dipenuhi pembeli. Masyarakat desa
+
+             Batang Hari, berbondong-bondong
+             pergi ke pasar untuk membeli baju
+             baru. Orang-orang rela mengantri
+             panjang  hingga  berdesakan  demi
+
+             mencari  barang  untuk  persiapan
+             Lebaran.
+
+
+                   Toko-toko  baju  dipenuhi  oleh
+
+             pembeli       yang      ingin    tampil
+             maksimal dihari raya Idul Fitri. Hal
+             ini,  sudah  seperti  menjadi  tradisi,
+             masyarakat  berbondong-bondong
+
+             membeli baju baru jelang Lebaran.                       Gambar 2.4 Toko Pakaian
+
+
+
+                 Tak terkecuali Ari, Toni, dan Rangga, mereka pergi ke pasar untuk belanja  baju
+             baru.  Ari  membeli  4  kemeja  dan  1  celana  dengan  harga  Rp550.000.  Sedangkan,
+             Toni membeli 2 kemeja dan 1 celana dengan membayar Rp350.000. Jika Rangga
+
+             membeli 3 kemeja dan 2 celana, berapa uang yang harus dibayar oleh Rangga.
+
+
+             Isilah pertanyaan-pertanyaan berikut ini supaya kamu dapat mengetahui harga 1
+
+             kemeja dan 1 celana.
+
+
+           1.  Informasi apa yang kamu peroleh dari permasalahan di atas?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     30              Modul Matematika SMP 8 - SPLDV]]></page><page Index="45"><![CDATA[2.  Buatlah pemisalan dan model matematika untuk kemeja dan celana.
+
+             Harga satu buah kemeja misalkan = x rupiah dan
+
+
+             Harga satu buah celana misalkan =              rupiah
+
+             Ari membeli 4 kemeja dan 1 celana harga Rp550.000, maka  PLDV:
+
+             4x +              = 550.000                           persamaan (1)
+
+             dan
+
+             Toni membeli 2 kemeja dan 1 celana harga Rp350.000, maka PLDV :
+
+             2            +             = 350.000                        persamaan (2)
+
+
+
+             Kemudian, susun persamaan (1) dan persamaan (2) seperti berikut:
+
+
+
+             (1)  4x +            = 550.000
+
+
+
+             (2) 2x +             = 350.000
+
+
+             Agar  ada  variabel  yang  tereliminasi,  maka  persamaan  (1)  dikurang  dengan
+             persamaan (2).
+
+
+                               Mengapa
+
+
+
+
+
+
+
+
+
+
+
+             (1)  4x  +             = 550.000
+
+
+
+             (2) 2x   +             = 350.000
+                                                    -
+
+                              x           =           .000
+
+                                        x =           .000
+
+
+
+
+
+                                        x =                                      harga satu kemeja
+
+
+
+
+
+
+
+
+
+
+     31              Modul Matematika SMP 8 - SPLDV]]></page><page Index="46"><![CDATA[3.  Berapa  harga  satu  celana  dengan  berdasarkan  variabel  yang  telah  kamu
+             tentukan? ikuti cara seperti langkah soal nomor 2!
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+           4. Berapa harga satu kemeja dan harga satu celana?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+          5.  Jadi, berapa uang yang harus dibayarkan oleh Rangga dengan membeli 3 kemeja
+             dan 2 celana?
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             Semua orang punya cara
+                                             untuk mencari alasan,
+                                                  tapi tidak untuk
+                                                    menunjukkan
+                                                     kebenaran.
+
+
+                                                         @pelunglangit
+
+
+
+
+
+
+     32              Modul Matematika SMP 8 - SPLDV]]></page><page Index="47"><![CDATA[Menentukan nilai variabel pada SPLDV dengan
+               Kegiatan 4
+                                                    menggunakan metode Substitusi
+
+
+
+
+                   Penyelesaian  persamaan  linear  dua  variabel  dapat  dinyatakan  dengan
+             menyatakan salah satu variabel kevariabel yang lain, misalnya:
+
+                                                                                          Apakah dengan
+             x + y = 3y                                                                 menggunakan cara
+                    x = 2y                        variabel x dinyatakan dalam y           seperti itu akan
+                                                                                        diperoleh cara yang
+                                                                                               tepat?
+
+
+
+
+
+             Untuk lebih jelasnya, Ayo kita coba !
+
+
+
+
+             Perhatikan dua PLDV   2x - y = -2                 persamaan 1
+                                                   x + 2y = 4                   persamaan 2
+
+             Pada persamaan 1 yaitu 2x - y = -2, dapat dinyatakan y dalam x, atau sebaliknya
+             variabel x dinyatakan dalam y. Nah, kita pilih variabell y dinyatakan dalam x.
+
+
+
+             2x - y = -2   =>  y = 2x + 2                       y dinyatakan dalam x
+
+
+             Kemudian, pada persamaan 2 yaitu x + 2y = 4, ganti (substitusi) nilai y dengan
+             2x + 2, maka diperoleh:
+             x + 2(2x + 2) = 4
+
+             x + 4x + 4     = 4
+                              5x = 0
+                                x = 0.
+
+             Didapat  hasil  x  =  0,  kemudian,  untuk  memperoleh  nilai  variabel  y  dengan  cara
+             mensubstitusikan nilai x yang sudah diperoleh ke persamaan y = 2x + 2, yaitu:
+             y = 2x + 2
+             y = 2(0) + 2 = 0 + 2
+             y = 2.
+
+
+
+             Selanjutnya,  kita  buktikan  apakah  nilai  variabel  x  =  0  dan  y  =  2  memenuhi  atau
+             merupakan penyelesaian dari sistem persamaan dua variabel tersebut.
+
+                 Substitusi nilai x = 0 dan y = 2 ke PLDV 1 : 2x - y = -2
+                   2(0) - 2= -2
+                         -2      = -2 (benar)
+
+
+
+
+
+
+     33              Modul Matematika SMP 8 - SPLDV]]></page><page Index="48"><![CDATA[Substitusi nilai x = 0 dan y = 2 ke PLDV 2 : x + 2y = 4
+
+                   2(0) + 2(2) = 4
+                                4    = 4 (benar)
+
+
+
+             Terbukti bahwa nilai variabel x = 0  dan y = 2 memenuhi kedua persamaan
+             2x - y = -2 dan x + 2y = 4.
+
+
+
+
+
+
+
+                                  Sudahkah kamu
+                               memahaminya? Jika
+                             pemahaman kamu masih
+                             kurang, pahami kembali
+                           uraian materi di atas, setelah
+                           itu selesaikan permasalahan
+                                      berikut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Jangan berhenti jadi
+                                                         baik ya,
+                                                    Seburuk apapun
+
+                                               perlakuan orang kepada
+                                                           kita.
+
+
+                                                        @latahzan.idn
+
+
+
+
+
+     34              Modul Matematika SMP 8 - SPLDV]]></page><page Index="49"><![CDATA[Masalah 4.1
+
+
+
+                   Pada hari minggu, Bu Siti dan kedua anaknya, anak yang pertama bernama
+             Yesi dan si bungsu bernama Haikal pergi ke pasar "KTM". Bu Siti akan mengadakan
+             acara ulang tahun Haikal. Sebagai hidangan, Bu Siti membeli buah-buahan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Gambar 2.5 Membeli Buah
+
+
+
+                      Bu  Siti  meminta  kedua  anaknya  untuk  ikut  membantu  memilih  buah-buahan
+             yaitu buah Anggur dan buah Mangga. Yesi membeli 3 kg Anggur dan 2 kg Mangga
+             dengan harga Rp165.000, sedangkan Haikal membeli 2 kg Anggur dan 1 kg Mangga
+
+             pada  pedagang  yang  sama  dan  waktu  yang  sama  dengan  harga  Rp.100.000.
+             Kemudian,  Bu  Siti  membayarnya  dengan  empat  lembar  seratus  ribuan.  Sebelum
+             pedagang  itu  memberikan  kembaliannya,  Bu  Siti  juga  menambah  buah    di
+             pedagang yang tadi dengan membeli 1 kg Anggur dan 2 kg Mangga.
+
+             Berapa sisa uang kembalian yang diberikan pedagang itu?
+
+
+             Untuk  mengetahui  sisa  uang  kembalian  yang  diterima  Bu  Siti,  kamu  harus
+             mengetahui harga dari masing-masing 1 kg Anggur dan 1 kg Mangga.  Kamu bisa
+
+             menjawab pertanyaan berikut:
+
+
+
+
+          1.    Berdasarkan permasalahan diatas, informasi apa yang kamu dapatkan?
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+     35              Modul Matematika SMP 8 - SPLDV]]></page><page Index="50"><![CDATA[2.  Buatlah model matematika dari permasalahan tersebut!
+
+
+
+               Jawab:
+
+               Misalkan,
+               Harga 1 kg Anggur = x rupiah,
+               dan harga 1 kg Mangga = y rupiah.
+
+
+
+               Yesi  membeli  3  kg  Anggur  dan  2  kg  Mangga  dengan  harga  Rp165.000,  maka
+
+                PLDV:
+
+                         +             = 165.000                                 persamaan (1)
+
+               dan
+
+               Haikal membeli 2 kg Anggur dan 1 kg Mangga dengan harga Rp100.000, maka
+
+               PLDV :
+
+               2            +             =                                           persamaan (2)
+
+
+               Selanjutnya,  ubah  bentuk  persamaan  (2)  yang  dinyatakan  y  dalam  x,  seperti
+               berikut:
+               y =            x + 100.000                             persamaan (3)
+
+
+
+               Kemudian, pada persamaan (1) variabel y dapat diganti dengan persamaan (3).
+
+
+               3x  + 2 (             x + 100.000 ) = 165.000
+                                                                                  Ingat!!
+
+                                                               x = 165.000 -    Pilihlah persamaan
+                                                                                yang mudah untuk
+                                                               x =                         diubah ke
+                                                                                           dalam
+                                                                                           bentuk x = ...
+                                                                                           atau
+                                                                                           y = ...
+                                                               x =
+
+
+
+               Nilai variabel x substitusikan ke persamaan (3), maka diperoleh:
+               y =             .              + 100.000
+
+
+
+               y =
+
+
+
+
+
+
+
+
+
+
+     36              Modul Matematika SMP 8 - SPLDV]]></page><page Index="51"><![CDATA[3.  Berapa harga 1 kg  Anggur dan 1 kg Mangga?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+          4.  Berapa uang kembalian yang diterima oleh Bu Siti?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+          5.  Berapa banyak (kg) buah Mangga yang dapat dibeli jika Bu Siti mempunyai Uang
+
+             Rp200.000?
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     37              Modul Matematika SMP 8 - SPLDV]]></page><page Index="52"><![CDATA[Masalah 4.2
+
+                   Pada suatu hari yang cerah, Fajar menaiki motor. Di tengan perjalanan, Ia tidak
+
+             sengaja  berpapasan  dengan  Sonia  yang  sedang  membawa  plastik  yang  berisi
+             minyak makan dan gula putih. Sonia bercerita bahwa Ia telah membeli 2 kg minyak
+             makan dan 4 kg gula putih seharga Rp80.000 di toko Makmur jaya. Namun, Fajar
+             masih  bingung  apakah  uang  Rp80.000  yang  ia  bawa  cukup  untuk  membeli  3  kg
+
+             minyak makan dan 2 kg gula putih?
+
+
+                                       aku baru saja                       Hei, Sonia
+                                       membeli 2 kg                        kamu abis
+                                     minyak makan dan                     belanja apa?
+                                       4 kg gula putih
+                                     seharga Rp80.000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Fajar pun melanjutkan perjalanannya menuju toko Makmur Jaya. Namun, saat
+             diperjalanan  Ia  juga  bertemu  dengan  Bu  Fia  yang  sedang  membawa  kantong
+             plastik  yang  berisi  minyak  makan  dan  gula  putih  yang  sama  dibawa  oleh  Sonia
+             tadi. Bu fia pun bercerita bahwa Ia baru saja membeli 1 kg minyak makan dan 3 kg
+
+             gula putih dengan harga Rp52.000.
+
+             Setelah  itu,  Fajar  melanjutkan  perjalanannya  dan  sambil  berpikir  apakah  uang
+             yang ia bawa Rp80.000 cukup untuk membeli membeli 3 kg minyak dan 2 kg gula
+
+             putih.
+
+
+           1.   Berdasarkan permasalahan diatas, informasi apa yang kamu dapatkan?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     38              Modul Matematika SMP 8 - SPLDV]]></page><page Index="53"><![CDATA[2.  Buatlah model matematika dari permasalahan tersebut!
+
+
+
+               Jawab:
+
+               Misalkan,
+               Harga 1 kg minyak makan = x rupiah,
+               dan harga 1 kg gula putih = y rupiah.
+
+               Sonia  membeli  2  kg  Minyak  makan  dan  4  kg  gula  putih  dengan  harga
+
+               Rp80.000, maka  PLDV:
+                             +            =                                        persamaan (1)
+
+               dan
+               Bu  Fia  membeli  1  kg  Minyak  makan  dan  3  kg  gula  putih  dengan  harga
+               Rp52.000, maka PLDV :
+
+                           +               =  52.000                       persamaan (2)
+
+
+               Selanjutnya, ubah bentuk persamaan (2) dengan cara menyatakan x dalam y.
+               Dalam hal ini, kita bisa memilih persamaan yang akan disubstitusikan, namun
+               lebih mudah pilih dulu persamaan yang memiliki koefisien satu, seperti berikut:
+               x =              y + 52.000                           persamaan (3)
+
+
+
+               Kemudian,  pada  persamaan  (1),  variabel  x  dapat  diganti  dengan  persamaan
+               (3).
+
+
+               2 (             y + 52.000 ) +             = 80.000
+
+
+
+                                                               y = 80.000 -
+
+
+                                                               y =
+
+
+
+
+                                                               y =
+
+
+
+               Nilai  variabel  y  substitusikan  ke  persamaan  (3),  untuk  memperoleh  nilai
+               variabel x, maka :
+               x =               .              + 52.000
+
+
+
+               x =
+
+
+
+
+
+
+
+
+
+
+
+
+     39              Modul Matematika SMP 8 - SPLDV]]></page><page Index="54"><![CDATA[3.  Berapa harga 1 kg  minyak makan dan 1 kg gula putih?
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+          4.  Apakah  uang  Rp80.000  yang  Fajar  bawa  cukup  untuk  membeli  membeli  3  kg
+             minyak dan 2 kg gula putih. Jelaskan!
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+          5.  Berapa banyak (kg) minyak makan yang dapat dibeli dengan Uang Rp40.000?
+
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Balas dendam terbaik
+
+                                              adalah menjadikan
+                                              dirimu lebih baik.
+
+
+
+
+
+                                           @my.socadesign
+
+
+
+
+
+    40               Modul Matematika SMP 8 - SPLDV]]></page><page Index="55"><![CDATA[PENCAPAIN ITU TIDAK USAH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          TIDAK USAH
+
+
+          BANYAK-BANYAK
+
+
+
+
+
+
+
+
+
+
+
+
+
+           LAKUKAN SATU PER SATU
+
+
+
+           RUMIT-RUMIT
+
+
+
+
+           YANG PENTING,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            TUNTAS!!!.]]></page><page Index="56"><![CDATA[C             Latihan
+
+
+
+
+
+
+
+                      1.  Dian dan Rudi membeli jajanan pasar kue Risol dan Getuk di Pasar KTM.
+
+
+                         Dian  membayar  Rp9.500  untuk  10  kue  Risol  dan  4  kue  Getuk.
+
+                         Sedangkan, Rudi membayar Rp7.000 untuk 6 kue Risol dan 5 kue Getuk.
+
+
+                         Jika  Soleh  ingin  membeli  2  kue  Risol  dan  10  kue  Getuk,  maka  berapa
+
+
+                         uang yang harus dibayarkan …
+
+                      2.  Umar membeli kue untuk merayakan acara ulang tahun adiknya.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              Gambar 2.6 Kue Nastar coklat dan Donat
+                                              Sumber : detik.net.id/20-donat-murah-yang-
+                                              lembut-ada-di-sini, Shopee.co.id
+                          Kue  yang  dibeli  Umar  ada  2  jenis,  yaitu  kue  nastar  coklat  dan  Donat.
+
+
+                          Harga 1 toples kue nastar coklat sama dengan dua kali harga 1 kotak
+
+
+                          Donat.  Jika  harga  3  toples  kue  nastar  dan  2  kotak  Donat  adalah
+
+
+                          Rp280.000, maka uang yang harus dibayar Riski apabila ia memutuskan
+
+
+
+                          untuk membeli 2 toples kue nastar coklat dan 1 kotak Donat adalah ⋯
+                      3. Perhatikan masalah berikut ini!
+
+                          Warung Mak Ros menjual Pecel dan nasi uduk. Jika harga 3 porsi pecel
+
+
+                          dan 2 porsi nasi uduk adalah Rp34.000, sedangkan harga 5 porsi Pecel
+
+
+                          dan 3 porsi nasi uduk adalah Rp55.000. Harga 1 porsi pecel dan 1 porsi
+
+                          nasi uduk adalah…
+
+
+
+
+
+
+
+
+
+
+     41              Modul Matematika SMP 8 - SPLDV]]></page><page Index="57"><![CDATA[Ayo simak video berikut!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Sumber : gold dayona              Video penyelesaian sistem persamaan
+                                                                      linear dua variabel
+
+           1.  Kamu telah mempelajari video mengenai metode penyelesaian sistem persamaan
+
+             linear dua variabel. Ada berapa metode penyelesaian sistem persamaan linear dua
+             variabel  (SPLDV)  dan  bagaimana  langkah  penyelesaian  dari  masing-masing
+             metode tersebut?
+
+
+
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     42              Modul Matematika SMP 8 - SPLDV]]></page><page Index="58"><![CDATA[D                Rangkuman
+
+
+
+
+
+
+                  Setelah mengikuti kegiatan pembelajaran ini, kamu pasti sudah mulai mampu
+             mengidentifikasi  permasalahan  dalam  kehidupan  sehari-hari  yang  berkaitan
+             dengan  sistem  persamaan  linear  dua  variabel  dan  metode  penyelesaiannya..
+             Jawablah  pertanyaan-pertanyaan  berikut  ini  untuk  membuat  rangkuman  yang
+
+             tepat.
+
+           1.  Jelaskan  perbedaan  persamaan  linear  dua  variabell  (PLDV)  dan  Sistem
+             persamaan linear dua variabel (SPLDV)? Berikan contoh!
+
+          2.  Bagaimanakah        langkah-langkah        untuk     menentukan        penyelesaian       dari
+             permasalahan yang berkaitan dengan sistem persamaan linear dua variabel?
+          3.  Bagaimanakah  langkah-langkah  pengerjaan  sistem  persamaan  linear  dua
+
+             variabel dengan metode grafik?
+          4.  Bagaimanakah  cara  menentukan  penyelesaian  sistem  persamaan  linear  dua
+             variabel dari grafik yang ada?
+          5.  Pada  contoh-contoh  dan  pembahasan  penyelesaian  dengan  metode  grafik
+             diperoleh  bahwa  penyelesaian  dari  sistem  persamaan  linear  dua  variabel  yang
+
+             diberikan hanya memiliki satu pasangan penyeleaian. Apakah selalu demikian?
+          6.  Untuk dapat mengeliminasi salah satu variabel pada kedua persamaan, apa yang
+             kamu harus lakukan?
+          7.  Setelah  mendapatkan  nilai  salah  satu  variabel,  bagaimana  langkah  selanjutnya
+
+             untuk mendapatkan nilai dari variabel yang lainnya?
+
+
+
+
+
+
+
+
+
+
+
+                                                  Silahkan klik link berikut
+
+                                                       untuk menjawab
+                                                   beberapa pertanyaan
+                                                         rangkuman.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     43              Modul Matematika SMP 8 - SPLDV]]></page><page Index="59"><![CDATA[E                Refleksi
+
+
+
+
+                 Setelah kamu mempelajari dan mengikuti setiap aktivitas pembelajaran pada
+             materi  sistem  persamaan  linear  dua  variabel  dan  metode  penyelesaiannya,
+             ungkapkan perasaan kamu secara jujur dan bertanggung jawab berkaitan dengan
+             proses pada aktivitas pembelajaran tersebut.
+
+
+             Pengalaman belajar apa saja yang kamu ketahui setelah mengerjakan kegiatan
+           1.
+             pembelajaran 2?
+             Tuliskan jawaban kamu.
+
+           2. Apakah  kamu  mengalami  kesulitan  dalam  memahami  materi  ini?  Apabila  kamu
+              mengalami kesulitan, tuliskan di sini dan diskusikan dengan teman-temanmu.
+           3.Jelaskan  bagaimana  perasaan  kamu  ketika  beraktivitas  untuk  menemukan
+
+             penyelesaian sistem persamaan linear dua variabel melalui titik-titik potong yang
+             disajikan  dalam  tabel  sehingga  grafiknya  mudah  digambar  dan  mudah  untuk
+             menemukan penyelesaiannya, berikan contoh.
+
+           4.Ungkapkan tanggapan kamu terhadap penyampaian kegiatan pembelajaran 2 di
+             modul ini dengan memilih emoticon berikut:
+
+
+
+
+                            Sangat menarik              Biasa aja            Tidak menarik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  Silahkan klik link berikut
+                                                       untuk menjawab
+
+                                                   beberapa pertanyaan
+                                                            refleksi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    44               Modul Matematika SMP 8 - SPLDV]]></page><page Index="60"><![CDATA[Impian boleh besar,
+
+
+
+
+
+
+
+
+                                                    asal
+
+
+
+
+
+
+
+                                   dibangun dari
+
+
+
+
+
+
+
+
+
+
+                             pondasi-pondasi
+
+
+
+
+
+
+
+                                                kecil...]]></page><page Index="61"><![CDATA[UJI KOMPETENSI
+
+
+
+
+
+
+          1. Bu  Asih  membeli  5  butir  telur  ayam  kampung.  Jika  Bu  Asih  membayar  dengan
+             memberikan  uang  Rp20.000,  maka  uang  pengembaliannya  Rp7.500.  Bagaimana
+             cara kalian menentukan berapa harga 1 butir telur ayam kampung?
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+          2. Bu Dina seorang penjaga kantin sekolah, memberlakukan "Sistem kejujuran". Bagi
+             setiap  siswa  yang  ingin  makan  gorengan  di  kantinnya  tersedia  (piscok  dan
+             bakwan).  Siswa  tinggal  menaruh  uang  ke  dalam  kotak  yang  telah  disediakan.
+
+             Untuk harga piscok adalah Rp1.000 dan harga bakwan Rp500. Suatu hari, Bu Dina
+             mendapatkan  Rp25.000  dalam  kotak  kejujuran.  Bu  Dina  kebingungan  untuk
+             menentukan  berapa  banyak  gorengan  yang  terjual.  Ayo  bantu  Bu  Dina  untuk
+             menentukan berapa banyak gorengan yang terjual!
+
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+          3. Buatlah model matematika dengan variabel yang berbeda dari persamaan linear
+
+             dua variabel dari kalimat-kalimat berikut.
+             a. Umur kakak ditambah umur 3 kali umur adik adalah 32 tahun.
+             b. Harga 3 penghapus ditambah 2 pensil adalah Rp8.500.
+             c. Luas Belah ketupat dengan ukuran diagonal pertama dua kali ukuran diagonal
+             kedua dan panjang diagonal pertama adalah 10.
+
+
+                Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    45               Modul Matematika SMP 8 - SPLDV]]></page><page Index="62"><![CDATA[4. Masa  pandemi  seperti  saat  ini  kita  wajib  memenuhi  protokol  Kesehatan  yang
+
+             sudah  ditetapkan  oleh  pemerintah.  Seperti  memakai  masker,  mencuci  tangan
+             menggunakan  sabun,  menjaga  jarak  aman  dengan  orang  lain,  dan  mengecek
+             suhu tubuh.  Untuk memenuhi keperluan protokol kesehatan Dimas, Doni, dan Tina
+
+             membeli masker dan handsanitizer di Toko yang sama.
+
+
+             Lihatlah tabel berikut ini!
+
+
+
+
+                         Masker dan Handsanitizer                               Keterangan
+
+
+
+
+
+
+
+                                                                   Dimas membeli 2 pcs masker dan
+                                                                   1    botol    hand      sanitizer,   ia
+
+                                                                   membayar        sebesar      Rp60.000
+
+                                                                   dengan kembalian Rp5.000.
+
+                     Gambar 2.7 masker dan hand sanitizer
+
+
+
+
+
+
+                                                                   Doni membeli 2 pcs masker dan 2
+                                                                   botol      hand       sanitizer,     ia
+
+                                                                   membayar  sebesar  Rp100.000
+
+                                                                   dengan kembalian Rp30.000.
+
+
+
+
+
+
+             a.  Tentukan harga masing-masing 1 pcs masker dan 1 botol hand sanitizer?
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    46               Modul Matematika SMP 8 - SPLDV]]></page><page Index="63"><![CDATA[b. Berapa uang yang harus dikeluarkan oleh Tina, jika ia membeli 1 pcs masker dan
+
+             3 botol hand sanitizer?
+
+
+
+               Jawab:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              Metode Eliminasi dan
+                                             Substitusi pada Sistem
+                                              Persamaan Linear Dua
+                                          Variabel mengajarkan kita,
+
+                                           bahwa untuk sesuatu yang
+                                            telah hilang, kita perlu
+                                                  penggantinya.
+
+
+
+
+
+
+
+
+    47               Modul Matematika SMP 8 - SPLDV]]></page><page Index="64"><![CDATA[GLOSARIUM
+
+
+
+
+
+
+              Grafik                                 Representasi  visual  yang  digunakan  untuk
+                                                     menunjukkan hubungan numerik.
+
+
+              Konteks                                Bagian  suatu  uraian  atau  kalimat  yang  dapat
+                                                     mendukung  atau  menambah  kejelasan  makna;
+                                                     situasi  yang  ada  hubungannya  dengan  suatu
+
+                                                     kejadian.
+
+
+              Kontekstual                            Berhubungan dengan konteks.
+
+
+             Linear                                  Berbentuk garis.
+
+
+             Metode Eliminasi                        Menghilangkan  salah  satu  variabel  persamaan
+                                                     dengan         cara        menjumlahkan           atau
+                                                     mengurangkan dua sistem persamaan.
+
+
+             Metode Substitusi                       Mengganti suatu variabel dengan bilangan atau
+                                                     variabel lainnya.
+
+
+             Persamaan                               Kalimat  terbuka  yang  dihubungkan  dengan
+                                                     tanda “sama dengan”.
+
+
+             Persamaan linear                        Dapat         berubah-ubah,           berbeda-beda,
+             dua variabel                            bermacam-macam  (tentang  mutu,  harga,  dan
+
+                                                     sebagainya);  2n  sesuatu  yang  dapat  berubah;
+                                                     faktor  atau  unsur  yang  ikut  menentukan
+                                                     perubahan.
+
+
+             Variabel                                Persamaan  yang  penyelesaiannya  terdiri  dari
+                                                     dua peubah dan dapat dituliskan dalam bentuk
+                                                     ax + by = c.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    48               Modul Matematika SMP 8 - SPLDV]]></page><page Index="65"><![CDATA[DAFTAR PUSTAKA
+
+
+
+
+
+
+
+             Kementerian  Pendidikan  dan  Kebudayaan.  2017.  "Matematika  Untuk  SMP/MTs
+             Kelas VIII Semester 1". Jakarta : Kementerian Pendidikan dan Kebudayaan.
+
+
+             M.  Cholik.  2016.  "Matematika  Untuk  SMP/MTS  Kelas  VIII  Semester  1".  Jakarta  :
+             Erlangga.
+
+
+             Kementerian  Pendidikan  dan  Kebudayaan  RI.  2020.  "Modul  Pembelajaran  Jarak
+             Jauh  Pada  Masa  Pandemi  Covid-19  Untuk  SMP  VIII  Semester  Gasal".  Jakarta  :
+             Direktorat Sekolah Menengah Pertama.
+
+
+             https://www.geogebra.org/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    49               Modul Matematika SMP 8 - SPLDV]]></page><page Index="66"><![CDATA[Sesuatu yang ada pada
+
+
+
+
+
+
+                                     dirimu, itulah
+
+
+
+
+
+
+                 kendaraanmu. Ia telah
+
+
+
+
+
+
+                           menjelma menjadi
+
+
+
+
+
+                                kekuatan untuk
+
+
+
+
+
+
+                  berkarya, berprestasi,
+
+
+
+
+
+
+                         dan berkreasi. Jadi
+
+
+
+
+
+
+                satu-satunya yang bisa
+
+
+
+
+
+
+                 mengantarkanmu pada
+
+
+
+
+
+
+                                   IMPIANMU.
+
+
+
+
+
+
+
+
+                                                                         Rhenal Kasali]]></page><page Index="67"><![CDATA[INSTITUT AGAMA ISLAM NEGERI (IAIN)
+                                                     METRO]]></page></pages></Search>
